@@ -6,3 +6,4 @@ third line on master
 5th line on branch2
 6th line on branch2
 8th line on master
+9th line on master
