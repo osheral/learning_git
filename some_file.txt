@@ -8,3 +8,4 @@ third line on master
 8th line on master
 9th line on master
 10th line on branch3
+11th line on branch3
