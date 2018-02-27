@@ -3,3 +3,4 @@ second line from branch1
 third line on master
 4th line on master
 5th line on branch2
+6th line on branch2
